@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Preethi",
+      "request": "launch",
+      "type": "node-terminal",
+      "cwd": "${workspaceFolder}",
+      "command": "cds watch",
+      "skipFiles": [
+        "<node_internals>/**"
+      ]
+    }
+  ]
+}
